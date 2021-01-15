@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
+    "eslint-plugin-testing-library": "^3.10.1",
     "mutationobserver-shim": "^0.3.3"
   }
 }
